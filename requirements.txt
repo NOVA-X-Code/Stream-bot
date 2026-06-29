@@ -1,0 +1,34 @@
+# Core Framework
+python-telegram-bot>=20.3
+nest_asyncio>=1.5.6
+
+# Database
+supabase>=1.1.1
+
+# Environment & Configuration
+python-dotenv>=1.0.0
+
+# Logging & Monitoring
+colorlog>=6.7.0
+psutil>=5.9.5
+
+# HTTP & Async
+aiohttp>=3.8.5
+
+# Security
+pyotp>=2.8.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+
+# Development
+black>=23.7.0
+flake8>=6.1.0
+mypy>=1.5.1
+python-dotenv>=1.0.1
+python-telegram-bot>=21.0
+supabase>=2.6.0
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
